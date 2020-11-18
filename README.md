@@ -1,4 +1,4 @@
-This Repository contains 2 projects:
+This Repository contains 2 projects:  
 **1. Titanic Case Study**  
 **2. Soccer Players Case Study**  
 
